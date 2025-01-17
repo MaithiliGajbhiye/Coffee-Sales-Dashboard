@@ -20,4 +20,4 @@ The top category is coffee and the product is Barista Espresso across the board.
 
 # Dashboard
 
-<img src="./Coffee-Sales-Dashboard.png" alt="mysql_img.png"/> &nbsp;
+<img src="./Coffee_Sales_Dashboard.png" alt="Coffee_Sales_Dashboard.png"/> &nbsp;
